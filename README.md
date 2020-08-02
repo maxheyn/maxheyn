@@ -1,7 +1,9 @@
 [![Header](https://raw.githubusercontent.com/maxheyn/maxheyn/master/header.png "Header")](https://maxheyn.github.io/)
 
+# Hey everyone! 👋 Thanks for visiting my GitHub!
+
+## This README is still a work in progress!
 <!--
-**maxheyn/maxheyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
