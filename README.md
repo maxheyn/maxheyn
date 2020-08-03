@@ -1,10 +1,10 @@
 [![Header](https://raw.githubusercontent.com/maxheyn/maxheyn/master/header.png "Header")](https://maxheyn.github.io/)
 
-# Hi! 👋 Thanks for visiting my GitHub!
+# Hi! 👋 Thanks for visiting my GitHub Profile!
 
 ## About Me
 
-I'm Max Herold, a Computer Science student at Clemson University! One of my biggest skills and hobbies is programming, right alongside my passion for games and game development. Recently I've taken up the Technical Director position for the Clemson Esports club, and my plan is to lead a club-wide development project for anyone who wants to involved! 
+I'm Max Herold, a Computer Science student at Clemson University! One of my biggest skills and hobbies is programming, right alongside my passion for games and game development. Recently, I've taken up the Technical Director position for the Clemson Esports club, and my plan is to lead a club-wide development project for anyone who wants to involved!
 
 Other than that, I love to learn about new technologies in my free time and the way I do that is with personal projects! Some of the things that I've learned how to use with personal projects are...
 
@@ -14,7 +14,7 @@ Other than that, I love to learn about new technologies in my free time and the 
 
 ## My Skills
 
-W.I.P.
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/aws.svg' width='50'/>
 
 
 <!--
