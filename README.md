@@ -2,9 +2,10 @@
 
 # Hi! 👋 Thanks for visiting my GitHub Profile!
 <p align= 'center'>
-<a href='https://www.linkedin.com/in/max-herold-8099b11a6/'><img src='https://img.shields.io/badge/-Max%20Herold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-herold-8099b11a6/'></a>
-<a href='mailto:maxoheyn@gmail.com?subject=Hello%20Max,%20from%20GitHub'><img src='https://img.shields.io/badge/-maxoheyn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white'></a>
+<a href='https://www.linkedin.com/in/max-herold-8099b11a6/'><img src='https://img.shields.io/badge/-Max%20Herold-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-herold-8099b11a6/'></a>
+<a href="mailto:maxoheyn@gmail.com?subject=Hello%20Max%2C%20From%20GitHub!"><img src='https://img.shields.io/badge/-maxoheyn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white'></a>
 <a href='https://github.com/maxheyn/?tab=follow'><img src='https://img.shields.io/github/followers/maxheyn?label=Follow&style=social'></a>
+<img src='https://komarev.com/ghpvc/?username=maxheyn&label=Profile+Views&style=flat'>
 </p>
 
 
@@ -16,7 +17,7 @@ Other than that, I love to learn about new technologies in my free time by start
 
 - ✅ C# and the Unity Engine
 - ✅ Node.js and JavaScript
-- ✅ ...and interestingly enough - Minecraft Command Block Language! 1 2
+- ✅ ...and interestingly enough - Minecraft Command Block Language!
 
 ## I love working with and learning about...
 
