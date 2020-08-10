@@ -15,7 +15,7 @@ Other than that, I love to learn about new technologies in my free time and the 
 ## I Love Working With...
 
 <p align = 'center'>
-These languages!
+..these languages!<br>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/python-original.svg' alt='Python' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/git-original.svg' alt='Git' width='50'/>
@@ -26,8 +26,10 @@ These languages!
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/c-original.svg' alt='C' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/cplusplus-original.svg' alt='C++' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/csharp-original.svg' alt='C#' width='50'/>
-</p><p align = 'center'>
-...and these platforms and services!
+</p>
+
+<p align = 'center'>
+...and these platforms and services!<br>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/amazonwebservices-original.svg' alt='AWS' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/linux-original.svg' alt='Linux' width='50'/>
