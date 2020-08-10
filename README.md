@@ -14,11 +14,9 @@ Other than that, I love to learn about new technologies in my free time and the 
 
 ## I Love Working With...
 
-<center>
-
 These languages!
 
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/python-original.svg' alt='Python' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/git-original.svg' alt='Git' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/java-original-wordmark.svg' alt='Java' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/html5-original-wordmark.svg' alt='HTML' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/javascript-original.svg' alt='JavaScript' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/nodejs-original.svg' alt='Node.js' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/c-original.svg' alt='C' width='50'/>
+<img align='center' src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/python-original.svg' alt='Python' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/git-original.svg' alt='Git' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/java-original-wordmark.svg' alt='Java' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/html5-original-wordmark.svg' alt='HTML' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/javascript-original.svg' alt='JavaScript' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/nodejs-original.svg' alt='Node.js' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/c-original.svg' alt='C' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/cplusplus-original.svg' alt='C++' width='50'/><img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/csharp-original.svg' alt='C#' width='50'/>
 ...and these platforms and services!
 
