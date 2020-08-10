@@ -12,13 +12,12 @@ Other than that, I love to learn about new technologies in my free time and the 
 - ✅ Node.js and JavaScript
 - ✅ ...and interestingly enough - Minecraft Command Block Language!
 
-## My Skills
+## I Love Working With...
 
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/aws.svg' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/amazonwebservices-original-wordmark.svg' width='50'/>
 
 
 <!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
