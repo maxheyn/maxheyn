@@ -22,7 +22,7 @@ Other than that, I love to learn about new technologies in my free time by start
 ## I love working with and learning about...
 
 <p align = 'center'>
-..these languages!<br>
+...these languages!<br>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/python-original.svg' alt='Python' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/java-original-wordmark.svg' alt='Java' width='50'/>
