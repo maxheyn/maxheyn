@@ -19,7 +19,7 @@ Other than that, I love to learn about new technologies in my free time by start
 - ✅ Node.js and JavaScript
 - ✅ ...and interestingly enough - Minecraft Command Block Language!
 
-<img src='https://github.com/maxheyn/maxheyn/blob/master/resources/cute.gif' width='300'>
+<p align = 'center'><img src='https://github.com/maxheyn/maxheyn/blob/master/resources/cute.gif' width='300'></p>
 
 ## I love working with and learning about...
 
