@@ -19,6 +19,8 @@ Other than that, I love to learn about new technologies in my free time by start
 - ✅ Node.js and JavaScript
 - ✅ ...and interestingly enough - Minecraft Command Block Language!
 
+<img src='https://github.com/maxheyn/maxheyn/blob/master/resources/cute.gif' width='300'>
+
 ## I love working with and learning about...
 
 <p align = 'center'>
@@ -41,8 +43,7 @@ Other than that, I love to learn about new technologies in my free time by start
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/git-original.svg' alt='Git' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/linux-original.svg' alt='Linux' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/windows-original.svg' alt='Windows' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/android-original.svg' alt='Android' width='50'/><br>
-<img src='https://github.com/maxheyn/maxheyn/blob/master/resources/cute.gif' width='300'>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/android-original.svg' alt='Android' width='50'/>
 </p>
 
 ## Check out what I'm up to!
