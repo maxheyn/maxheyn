@@ -42,7 +42,7 @@ Other than that, I love to learn about new technologies in my free time by start
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/linux-original.svg' alt='Linux' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/windows-original.svg' alt='Windows' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/android-original.svg' alt='Android' width='50'/><br>
-<img src='resources/cute.gif' width='300'>
+<img src='https://github.com/maxheyn/maxheyn/blob/master/resources/cute.gif' width='300'>
 </p>
 
 ## Check out what I'm up to!
