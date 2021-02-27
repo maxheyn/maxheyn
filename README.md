@@ -39,7 +39,7 @@ I'm Max! I recently graduated from Clemson University with a bachelor's degree i
 
 At the moment I'm working on a little bit of a... secret project! But other than that, lots of my projects have been little tweaks or mods to games that I enjoy playing! Some of my university projects are on here as well, but they are mostly personal projects. <br><br>Feel free to check out the individual repositories, but before you go, I've listed some of my proudest projects below!
 
-(Click the ▶ to expand!)
+(Click the ▸ to expand!)
 
 <details>
     <summary>
