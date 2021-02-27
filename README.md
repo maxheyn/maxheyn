@@ -7,11 +7,11 @@
 </p>
 
 
-## About me
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/AboutMeBanner.png' alt='About Me'>
 
-I'm Max! I recently graduated from Clemson University with a bachelor's degree in Computer Science and loved my time as a fellow Tiger! Along the way I learned most of what your typical CompSci student might be taught, but the real magic that opened my eyes to the possibilities out there showed itself when I was making some "for fun" projects outside of class. I spent a lot of time tinkering with personal projects, some of which are lost to time, and others which are featured here on my GitHub. I hope you enjoy your stay! Maybe you'll find something interesting or noteworthy!
+I'm Max! I recently graduated from Clemson University with a bachelor's degree in Computer Science and loved my time as a fellow Clemson Tiger! Along the way I learned most of what your typical CompSci student might be taught, but the real magic that opened my eyes to the possibilities out there showed itself when I was making some "for fun" projects outside of class. I spent a lot of time tinkering with personal projects, some of which are lost to time, and others which are featured here on my GitHub. I hope you enjoy your stay! Maybe you'll find something interesting or noteworthy!
 
-## Some (but not all) things I've worked with...
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/IveWorkedWith.png' alt='Ive worked with'>
 
 <p align = 'center'>
 ...these languages!<br>
@@ -35,7 +35,7 @@ I'm Max! I recently graduated from Clemson University with a bachelor's degree i
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/android-original.svg' alt='Android' width='50'/>
 </p>
 
-## Check out what I'm up to!
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/MyProjectsBanner.png' alt='My Projects'>
 
 At the moment I'm working on a little bit of a... secret project! But other than that, lots of my projects have been little tweaks or mods to games that I enjoy playing! Some of my university projects are on here as well, but they are mostly personal projects. <br><br>Feel free to check out the individual repositories, but before you go, I've listed some of my proudest projects below!
 
@@ -61,3 +61,5 @@ At the moment I'm working on a little bit of a... secret project! But other than
     </summary>
     An addon for World of Warcraft's newest feature: Torghast, Tower of the Damned! All that you need to know is in the repo's README, but simply put, it's a tweak to make it easier to play that game mode with your friends!<br><br>Along the way, I met some other super friendly addon developers who were kind enough to be of assistance and point me in the right directions, since the documentation and tutorials for making WoW addons were pretty sparce or outdated. Very thankful for them!<br><br>This was inspired by a friend who I met in World of Warcraft. They mentioned that they were interested in programming and had a tiny bit of experience with it. I thought, well, maybe we can make an addon together! Unfortunately... this addon ended up being a bit more than beginner friendly, but it got them programming again, and they started making their own addon and projects to keep up with what they saw I was doing. Proud to have had an impact on someone else who enjoys doing what I do as well!
 </details>
+
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/ContactMeBanner.png' alt='Contact Me'>
