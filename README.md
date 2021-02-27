@@ -11,7 +11,7 @@
 
 I'm Max! I recently graduated from Clemson University with a bachelor's degree in Computer Science and loved my time as a fellow Clemson Tiger! Along the way I learned most of what your typical CompSci student might be taught, but the real magic that opened my eyes to the possibilities out there showed itself when I was making some "for fun" projects outside of class. I spent a lot of time tinkering with personal projects, some of which are lost to time, and others which are featured here on my GitHub. I hope you enjoy your stay! Maybe you'll find something interesting or noteworthy!
 
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/IveWorkedWith.png' alt='Ive worked with'>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/IveWorkedWithBanner.png' alt='Ive worked with'>
 
 <p align = 'center'>
 ...these languages!<br>
