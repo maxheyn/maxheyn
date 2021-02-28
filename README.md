@@ -9,7 +9,6 @@
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/TechnologiesBanner.png' alt='Technologies'>
 
 <p align = 'center'>
-
 Most recently many of my projects have been focused around the following technologies...<br>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/nodejs-original.svg' title='Node.js' alt='Node.js' width='50'/>
@@ -19,7 +18,6 @@ Most recently many of my projects have been focused around the following technol
 </p>
 
 <p align = 'center'>
-
 I'm also familiar or have worked with these languages...<br>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/python-original.svg' title='Python' alt='Python' width='50'/>
@@ -31,7 +29,6 @@ I'm also familiar or have worked with these languages...<br>
 </p>
 
 <p align = 'center'>
-
 ...and these platforms and services!<br>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/amazonwebservices-original.svg' title='AWS' alt='AWS' width='50'/>
