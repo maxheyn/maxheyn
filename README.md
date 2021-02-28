@@ -24,6 +24,7 @@ I'm also familiar or have worked with these languages...<br>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/python-original.svg' title='Python' alt='Python' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/java-original-wordmark.svg' title='Java' alt='Java' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/html5-original-wordmark.svg' title='HTML5' alt='HTML5' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/c-original.svg' title='C' alt='C' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/cplusplus-original.svg' title='C++' alt='C++' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/Bash_Logo_Colored.svg' title='Bash/Shell' alt='Bash/Shell' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/command_block.svg' title='Command Block Language' alt='Command Block' width='50'/>
@@ -41,7 +42,7 @@ I'm also familiar or have worked with these languages...<br>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/MyProjectsBanner.png' alt='My Projects'>
 
-At the moment I'm working on a little bit of a... secret project! But other than that, lots of my projects have been little tweaks or mods to games that I enjoy playing! Some of my university projects are on here as well, but they are mostly personal projects. <br><br>Feel free to check out the individual repositories, but before you go, I've listed some of my proudest projects below!
+At the moment I'm working on a little bit of a... secret project! But other than that, lots of my projects have been little tweaks or mods to games that I enjoy playing! Some of my university projects are on here as well, but they are mostly personal projects.<br><br>Feel free to check out the individual repositories, but before you go, I've listed some of my proudest projects below!
 
 (Click the ▸ to expand!)
 
@@ -49,7 +50,7 @@ At the moment I'm working on a little bit of a... secret project! But other than
     <summary>
         <a href="https://github.com/clemsonMakerspace/CUmakeit"><u>CUmakeit</u></a> - Senior design project 
     </summary>
-    My team of 4 was given an amazing opportunity to work on a project sponsored by AWS, and to work and be mentored by AWS employees! We developed the foundations for a login and logout system for the <a href="https://www.cumaker.space/">Clemson Makerspace</a>, utilzing various AWS features and some Raspberry Pis with card readers.<br><br>Throughout my semesters at Clemson, this was by far the best learning opportunity that I experienced. I learned about and implementing various AWS features, the agile software development cycle, leading a group of developers, managing client expectations,  working on an large scale project, and most importantly... what to do <b>better</b> next time! This was truly the highlight of my college experience, and I even got a summer internship out of it 😊.
+    My team of 4 was given an amazing opportunity to work on a project sponsored by AWS, and to work with and be mentored by AWS employees! We developed the foundations for a login and logout system for the <a href="https://www.cumaker.space/">Clemson Makerspace</a>, utilzing various AWS features and some Raspberry Pis with card readers.<br><br>Throughout my semesters at Clemson, this was by far the best learning opportunity that I experienced. I learned about and implementing various AWS features, the agile software development cycle, leading a group of developers, managing client expectations,  working on an large scale project, and most importantly... what to do <b>better</b> next time! This was truly the highlight of my college experience, and I even got a summer internship out of it 😊.
 </details>
 
 <details>
@@ -61,7 +62,7 @@ At the moment I'm working on a little bit of a... secret project! But other than
 
 <details>
     <summary>
-        <a href="https://github.com/maxheyn/TorghastTeams"><u>TorghastTeams</u></a>  - World of Warcraft Addon
+        <a href="https://github.com/maxheyn/TorghastTeams"><u>TorghastTeams</u></a> - World of Warcraft Addon
     </summary>
     An addon for World of Warcraft's newest feature: Torghast, Tower of the Damned! All that you need to know is in the repo's README, but simply put, it's a tweak to make it easier to play that game mode with your friends!<br><br>Along the way, I met some other super friendly addon developers who were kind enough to be of assistance and point me in the right directions, since the documentation and tutorials for making WoW addons were pretty sparce or outdated. Very thankful for them!<br><br>This was inspired by a friend who I met in World of Warcraft. They mentioned that they were interested in programming and had a tiny bit of experience with it. I thought, well, maybe we can make an addon together! Unfortunately... this addon ended up being a bit more than beginner friendly, but it got them programming again, and they started making their own addon and projects to keep up with what they saw I was doing. Proud to have had an impact on someone else who enjoys doing what I do as well!
 </details>
