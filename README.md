@@ -36,6 +36,7 @@ I'm also familiar or have worked with these languages...<br>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/git-original.svg' title='Git' alt='Git' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/linux-original.svg' title='Linux' alt='Linux' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/icons8-raspberry-pi.svg' title='Raspberry Pi' alt='Raspberry Pi' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/icons8-discord.svg' title='Discord' alt='Discord' width='50'/>
 </p>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/MyProjectsBanner.png' alt='My Projects'>
