@@ -2,7 +2,7 @@
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/AboutMeBanner.png' alt='About Me'>
 
-<img align='right' src='resources/cute.gif' height="200">
+<img align='right' src='resources/cute.gif' height="148">
 
 👋 I'm Max! I recently graduated from Clemson University with a bachelor's degree in Computer Science and loved my time as a fellow Clemson Tiger! Along the way I learned most of what your typical CompSci student might be taught, but the real magic that opened my eyes to the possibilities out there showed itself when I was making some "for fun" projects outside of class. I spent a lot of time tinkering with personal projects, some of which are lost to time, and others which are featured here on my GitHub. I hope you enjoy your stay! Maybe you'll find something interesting or noteworthy!
 
