@@ -8,23 +8,19 @@
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/TechnologiesBanner.png' alt='Technologies'>
 
-<p align = "center">
-Most recently many of my projects have been focused around the following languages... 
-
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/nodejs-original.svg' alt='Node.js' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/csharp-original.svg' alt='C#' width='50'/>
-
-Other than that, I've also worked with these languages...
+<p align = 'center'>
+...these languages!<br>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/python-original.svg' alt='Python' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/java-original-wordmark.svg' alt='Java' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/html5-original-wordmark.svg' alt='HTML' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/javascript-original.svg' alt='JavaScript' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/c-original.svg' alt='C' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/nodejs-original.svg' alt='Node.js' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/cplusplus-original.svg' alt='C++' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/csharp-original.svg' alt='C#' width='50'/>
 </p>
 
-<p align = "center">
+<p align = 'center'>
 ...and these platforms and services!<br>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/amazonwebservices-original.svg' alt='AWS' width='50'/>
