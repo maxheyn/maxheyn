@@ -1,15 +1,10 @@
 [![Header](https://raw.githubusercontent.com/maxheyn/maxheyn/master/resources/MaxHBanner.png "Header")](https://github.com/maxheyn)
 
-<p align= 'center'>
-<a href='https://www.linkedin.com/in/max-herold-8099b11a6/'><img src='https://img.shields.io/badge/-Max%20Herold-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-herold-8099b11a6/'></a>
-<a href="mailto:maxoheyn@gmail.com?subject=Hello%20Max%2C%20From%20GitHub!"><img src='https://img.shields.io/badge/-maxoheyn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white'></a>
-<img src='https://komarev.com/ghpvc/?username=maxheyn&label=Profile+Views&style=flat'>
-</p>
-
-
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/AboutMeBanner.png' alt='About Me'>
 
-I'm Max! I recently graduated from Clemson University with a bachelor's degree in Computer Science and loved my time as a fellow Clemson Tiger! Along the way I learned most of what your typical CompSci student might be taught, but the real magic that opened my eyes to the possibilities out there showed itself when I was making some "for fun" projects outside of class. I spent a lot of time tinkering with personal projects, some of which are lost to time, and others which are featured here on my GitHub. I hope you enjoy your stay! Maybe you'll find something interesting or noteworthy!
+<img align='right' src='resources/cute.gif' height="200">
+
+👋 I'm Max! I recently graduated from Clemson University with a bachelor's degree in Computer Science and loved my time as a fellow Clemson Tiger! Along the way I learned most of what your typical CompSci student might be taught, but the real magic that opened my eyes to the possibilities out there showed itself when I was making some "for fun" projects outside of class. I spent a lot of time tinkering with personal projects, some of which are lost to time, and others which are featured here on my GitHub. I hope you enjoy your stay! Maybe you'll find something interesting or noteworthy!
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/IveWorkedWithBanner.png' alt='Ive worked with'>
 
@@ -63,3 +58,9 @@ At the moment I'm working on a little bit of a... secret project! But other than
 </details>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/ContactMeBanner.png' alt='Contact Me'>
+
+<p align= 'center'>
+<a href='https://www.linkedin.com/in/max-herold-8099b11a6/'><img src='https://img.shields.io/badge/-Max%20Herold-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-herold-8099b11a6/'></a>
+<a href="mailto:maxoheyn@gmail.com?subject=Hello%20Max%2C%20From%20GitHub!"><img src='https://img.shields.io/badge/-maxoheyn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white'></a>
+<img src='https://komarev.com/ghpvc/?username=maxheyn&label=Profile+Views&style=flat'>
+</p>
