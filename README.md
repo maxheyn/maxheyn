@@ -9,25 +9,29 @@
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/TechnologiesBanner.png' alt='Technologies'>
 
 <p align = 'center'>
-...these languages!<br>
 
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/python-original.svg' alt='Python' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/java-original-wordmark.svg' alt='Java' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/html5-original-wordmark.svg' alt='HTML' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/javascript-original.svg' alt='JavaScript' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/nodejs-original.svg' alt='Node.js' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/cplusplus-original.svg' alt='C++' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/csharp-original.svg' alt='C#' width='50'/>
-</p>
+Most recently many of my projects have been focused around the following technologies... <br>
 
-<p align = 'center'>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/nodejs-original.svg' title='Node.js' alt='Node.js' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/csharp-original.svg' title='C#' alt='C#' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/Lua-Logo.svg' title='Lua' alt='Lua' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/icons8-unity.svg' title='Unity3D' alt='Unity3D' width='50'/>
+
+I'm also familiar or have worked with these languages...<br>
+
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/python-original.svg' title='Python' alt='Python' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/java-original-wordmark.svg' title='Java' alt='Java' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/html5-original-wordmark.svg' title='HTML5' alt='HTML5' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/cplusplus-original.svg' title='C++' alt='C++' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/icons8-bash.svg' title='Bash/Shell' alt='Bash/Shell' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/command_block.svg' title='Command Block Language' alt='Command Block' width='50'/>
+
 ...and these platforms and services!<br>
 
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/amazonwebservices-original.svg' alt='AWS' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/git-original.svg' alt='Git' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/linux-original.svg' alt='Linux' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/windows-original.svg' alt='Windows' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/android-original.svg' alt='Android' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/amazonwebservices-original.svg' title='AWS' alt='AWS' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/git-original.svg' title='Git' alt='Git' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/linux-original.svg' title='Linux' alt='Linux' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/icons8-raspberry-pi.svg' title='Raspberry Pi' alt='Raspberry Pi' width='50'/>
 </p>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/MyProjectsBanner.png' alt='My Projects'>
