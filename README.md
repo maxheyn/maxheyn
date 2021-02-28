@@ -69,7 +69,8 @@ At the moment I'm working on a little bit of a... secret project! But other than
 My preferred method of contact is through my personal email, but feel free to contact me using any of the following methods.
 
 <p align= 'center'>
-<a href='https://www.linkedin.com/in/max-herold-8099b11a6/'><img src='https://img.shields.io/badge/-Max%20Herold-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-herold-8099b11a6/'></a>
-<a href="mailto:maxoheyn@gmail.com?subject=Hello%20Max%2C%20From%20GitHub!"><img src='https://img.shields.io/badge/-maxoheyn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white'></a>
-<a href="mailto:moherol@g.clemson.edu?subject=Hello%20Max%2C%20From%20GitHub!"><img src='https://img.shields.io/badge/-moherol@g.clemson.edu-c14438?style=flat&logo=Gmail&logoColor=white'></a>
+
+<a href="mailto:maxoheyn@gmail.com?subject=Hello%20Max%2C%20From%20GitHub!"><img src='https://img.shields.io/badge/-maxoheyn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white'/>
+<a href="mailto:moherol@g.clemson.edu?subject=Hello%20Max%2C%20From%20GitHub!"><img src='https://img.shields.io/badge/-moherol@g.clemson.edu-c14438?style=flat&logo=Gmail&logoColor=white'/>
+<a href='https://www.linkedin.com/in/max-herold-8099b11a6/'><img src='https://img.shields.io/badge/-Max%20Herold-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-herold-8099b11a6/'/>
 </p>
