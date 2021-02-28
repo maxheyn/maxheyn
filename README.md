@@ -6,21 +6,23 @@
 
 👋 I'm Max! I recently graduated from Clemson University with a bachelor's degree in Computer Science and loved my time as a fellow Clemson Tiger! Along the way I learned most of what your typical CompSci student might be taught, but the real magic that opened my eyes to the possibilities out there showed itself when I was making some "for fun" projects outside of class. I spent a lot of time tinkering with personal projects, some of which are lost to time, and others which are featured here on my GitHub. I hope you enjoy your stay! Maybe you'll find something interesting or noteworthy!
 
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/IveWorkedWithBanner.png' alt='Ive worked with'>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/TechnologiesBanner.png' alt='Technologies'>
 
-<p align = 'center'>
-...these languages!<br>
+<p>
+Most recently many of my projects have been focused around <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/nodejs-original.svg' alt='Node.js' width='50'/> and <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/csharp-original.svg' alt='C#' width='50'/><br>
+
+Other than that, I've also worked with these languages...
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/python-original.svg' alt='Python' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/java-original-wordmark.svg' alt='Java' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/html5-original-wordmark.svg' alt='HTML' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/javascript-original.svg' alt='JavaScript' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/nodejs-original.svg' alt='Node.js' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/c-original.svg' alt='C' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/cplusplus-original.svg' alt='C++' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/csharp-original.svg' alt='C#' width='50'/>
+
 </p>
 
-<p align = 'center'>
+<p>
 ...and these platforms and services!<br>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/amazonwebservices-original.svg' alt='AWS' width='50'/>
@@ -59,8 +61,10 @@ At the moment I'm working on a little bit of a... secret project! But other than
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/ContactMeBanner.png' alt='Contact Me'>
 
+My preferred method of contact is through my personal email, but feel free to contact me using any of the following methods.
+
 <p align= 'center'>
 <a href='https://www.linkedin.com/in/max-herold-8099b11a6/'><img src='https://img.shields.io/badge/-Max%20Herold-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-herold-8099b11a6/'></a>
 <a href="mailto:maxoheyn@gmail.com?subject=Hello%20Max%2C%20From%20GitHub!"><img src='https://img.shields.io/badge/-maxoheyn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white'></a>
-<img src='https://komarev.com/ghpvc/?username=maxheyn&label=Profile+Views&style=flat'>
+<a href="mailto:moherol@g.clemson.edu?subject=Hello%20Max%2C%20From%20GitHub!"><img src='https://img.shields.io/badge/-moherol@g.clemson.edu-c14438?style=flat&logo=Gmail&logoColor=white'></a>
 </p>
