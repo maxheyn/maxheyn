@@ -10,12 +10,15 @@
 
 <p align = 'center'>
 
-Most recently many of my projects have been focused around the following technologies... <br>
+Most recently many of my projects have been focused around the following technologies...<br>
 
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/nodejs-original.svg' title='Node.js' alt='Node.js' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/csharp-original.svg' title='C#' alt='C#' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/Lua-Logo.svg' title='Lua' alt='Lua' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/icons8-unity.svg' title='Unity3D' alt='Unity3D' width='50'/>
+</p>
+
+<p align = 'center'>
 
 I'm also familiar or have worked with these languages...<br>
 
@@ -23,8 +26,11 @@ I'm also familiar or have worked with these languages...<br>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/java-original-wordmark.svg' title='Java' alt='Java' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/html5-original-wordmark.svg' title='HTML5' alt='HTML5' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/cplusplus-original.svg' title='C++' alt='C++' width='50'/>
-<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/icons8-bash.svg' title='Bash/Shell' alt='Bash/Shell' width='50'/>
+<img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/Bash_Logo_Colored.svg' title='Bash/Shell' alt='Bash/Shell' width='50'/>
 <img src = 'https://github.com/maxheyn/maxheyn/blob/master/resources/command_block.svg' title='Command Block Language' alt='Command Block' width='50'/>
+</p>
+
+<p align = 'center'>
 
 ...and these platforms and services!<br>
 
