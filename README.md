@@ -75,5 +75,5 @@ My preferred method of contact is through my personal email, but feel free to co
 <a href="mailto:maxoheyn@gmail.com?subject=Hello%20Max%2C%20From%20GitHub!"><img src='https://img.shields.io/badge/-maxoheyn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white'/>
 <a href="mailto:moherol@g.clemson.edu?subject=Hello%20Max%2C%20From%20GitHub!"><img src='https://img.shields.io/badge/-moherol@g.clemson.edu-c14438?style=flat&logo=Gmail&logoColor=white'/>
 <a href='https://www.linkedin.com/in/max-herold-8099b11a6/'><img src='https://img.shields.io/badge/-Max%20Herold-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-herold-8099b11a6/'/>
-<a href='https://twitter.com/ToadstackDev'><img src='https://img.shields.io/badge/-moshfiqrony-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ToadstackDev/'/>
+<a href='https://twitter.com/ToadstackDev'><img src='https://img.shields.io/badge/-ToadstackDev-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ToadstackDev/'/>
 </p>
